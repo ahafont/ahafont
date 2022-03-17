@@ -14,7 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/101490384/158045117-b1cdc59a-da29-4917-914e-dad6a2469e48.png)
 ![image](https://user-images.githubusercontent.com/101490384/158045123-4a49017b-6f7c-432b-86f0-f369d12b55f0.png)
-![](https://mmbiz.qpic.cn/mmbiz_gif/DDSSkL2T0uMCxicETiatfbWUcb9iaVTkIQLqdnQ3r8hzEXN001kcibZVR1rmILYy7m2oHFlAVU5EjFBUI5RFjI1OJQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 就是这样一笔一笔地把每一个笔画勾勒出来，完成一整个字形，就绘制了一个字。
 我并不是完全按照轮廓把古籍上面的字给拓下来，那没有什么意义，而是要拆分每一个笔画，学到这个笔画具体的用力方式，以及它的结构和装饰特征。通过这几百个字的学习过程，就可以把字融会贯通在我的心里。
@@ -34,15 +33,11 @@
 
 这些元素就是我最开始的蓝本，也是以后复用的出发点。有了它们，就能做出很多偏旁和部首，在做几千上万个字的时候，就能用到各种各样的偏旁部首去适应不同的字形。制定好了最基础的元素和规范后，后面再绘制的时候风格会更稳定、更统一。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/DDSSkL2T0uPtWQZ8DoCe1FSELuWtd2r3jHsujGrBibfNyNG21YNaibJ1c7KkD3NIdvhiaVW3w7WuEklWsibfu1eFjg/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 做了几百个字后，再怎么做呢？那就再做几百个，再做几千个，然后再做更多。
 
 这个地方其实可以有掌声，因为这就是一整套字库。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/DDSSkL2T0uMCxicETiatfbWUcb9iaVTkIQLwoA5zqtia80K67OHvQ2bLHLrTewQ7LzZMSCiaBhqiau37tuaX2O71BKWw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
-
 ![image](https://user-images.githubusercontent.com/101490384/158045234-90ed2624-0a25-4899-819c-240d4fc3b0c9.png)
-![](https://mmbiz.qpic.cn/mmbiz_gif/DDSSkL2T0uMCxicETiatfbWUcb9iaVTkIQL9VzNonBTGSa2pXq9oxCImzgVmqJwbtlgLI1j8RSzEcqWMoltgnJIeA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 ![image](https://user-images.githubusercontent.com/101490384/158045243-9fe4e05e-d8f2-4f53-b2c2-08ee6ea98484.png)
 ![image](https://user-images.githubusercontent.com/101490384/158045244-f57ba055-7153-4cbb-bf5f-efac65bfc6a4.png)
 ![image](https://user-images.githubusercontent.com/101490384/158045245-c3d4ccf8-ee12-4520-94cc-e20f44f3b614.png)
